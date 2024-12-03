@@ -1,6 +1,6 @@
 #ifndef __SNEAK_OBJ__
 #define __SNEAK_OBJ__
-
+//boot.dev
 typedef enum snek_kind {
 	INTEGER,
 }	snek_object_kind_t;
